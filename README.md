@@ -42,7 +42,11 @@ A music recommendation system that suggests similar songs based on lyrics analys
 
 5. Set up Spotify API credentials:
    - Obtain your Spotify Client ID and Client Secret from [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
-   - Update the `CLIENT_ID` and `CLIENT_SECRET` variables in `app.py`.
+   - Create a `.env` file in the project root and add your credentials:
+     ```
+     SPOTIFY_CLIENT_ID=your_client_id_here
+     SPOTIFY_CLIENT_SECRET=your_client_secret_here
+     ```
 
 ## Usage
 
