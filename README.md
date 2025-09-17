@@ -22,8 +22,8 @@ A music recommendation system that suggests similar songs based on lyrics analys
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
-   cd music-recommender-system
+   git clone https://github.com/scorpionTaj/Music-Recommender-System.git
+   cd Music-Recommender-System
    ```
 
 2. Install the required packages:
